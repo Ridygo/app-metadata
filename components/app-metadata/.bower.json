@@ -1,0 +1,25 @@
+{
+  "name": "app-metadata",
+  "description": "Manage page meta tags for SEO",
+  "main": "app-metadata.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/CaptainCodeman/app-metadata",
+  "_release": "3b028d39f6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3b028d39f655b408428c995ce992c482413b213e"
+  },
+  "_source": "git://github.com/CaptainCodeman/app-metadata.git",
+  "_target": "master",
+  "_originalSource": "CaptainCodeman/app-metadata",
+  "_direct": true
+}
